@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vd7ylfPc3bLDm2/sayS1AIW9JxFrrteYwjBDMjKjO0w=",
+  "Source": "BankBrasilApi",
+  "BasePath": "_content/BankBrasilApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
