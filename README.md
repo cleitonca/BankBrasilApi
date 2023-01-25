@@ -1,4 +1,4 @@
-# Consumindo a API Bank do siste Brasil API.
+# Consumindo a API Bank do site Brasil API.
 
 Essa API retorna informações sobre o sistema bancário
 
